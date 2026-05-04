@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "referrerpolicy": {
+            "context": "link"
+        },
+        "integrity": {
+            "context": "script"
+        }
+    }
+}
